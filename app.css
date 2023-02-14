@@ -1,0 +1,20 @@
+.tarun{
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 23px;
+    text-shadow: 20px firebrick;
+    border-color: aqua;
+    /* background-color: brown; */
+    background-image: url('jesus.jpg');
+}
+.ta{
+    font-weight: bold;
+    font-family: calibri;
+     word-spacing: 12px;
+}
+
+
+
+
