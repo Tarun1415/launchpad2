@@ -1,0 +1,49 @@
+
+.chat-button{
+    padding: 13px 35px;
+    width: 10vw !important;
+    height: 7vh !important;
+    border: none;
+    letter-spacing: 1px;
+    font-weight: 600 !important;
+    background-color: #fff !important;
+    display: inline-block;
+    vertical-align: middle;
+    border: 2px solid transparent;
+    color: #0fbe7d !important;
+    text-shadow: none;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgb(0 0 0 / 0%);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    -webkit-transition-property: color;
+    transition-property: color;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    padding-top: 2.5vh !important;
+}
+.button-container{
+    display: flex;
+    justify-content: center;
+}
+.testimonial{
+    padding-bottom: 0px !important;
+}
+.days-container{
+    width: 100vw !important;
+    margin-left: 8% !important;
+}
+/* .buttons{
+    padding: 13px 35px;
+    border: none;
+    letter-spacing: 1px;
+    font-weight: 500;
+    background: #0fbe7d;
+    display: inline-block;
+    vertical-align: middle;
+    border: 2px solid transparent;
+} */
+
